@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1526534883 source:e:\workplace\flappy bird\bird.cpp
+	"Bird.h"
+
+1526534736 e:\workplace\flappy bird\bird.h
+	"CommonFunc.h"
+
+1526534114 e:\workplace\flappy bird\commonfunc.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+
+1526534225 source:e:\workplace\flappy bird\commonfunc.cpp
+	"CommonFunc.h"
+
+1526534668 source:e:\workplace\flappy bird\main.cpp
+	"Water_pipe.h"
+	"Bird.h"
+	<stdlib.h>
+	<ctime>
+	<fstream>
+
+1526479182 e:\workplace\flappy bird\water_pipe.h
+	"CommonFunc.h"
+
+1526386364 source:e:\workplace\flappy bird\water_pipe.cpp
+	"Water_pipe.h"
+
